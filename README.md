@@ -1,3 +1,3 @@
 # Convolutional Neural Network
 
-My implementation of a CNN using base Python and a few helper packages (numpy, pillow). No PyTorch or Tensorflow.
+My implementation of a convolutional neural network in Julia from scratch (base libraries only).
